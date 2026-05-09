@@ -55,15 +55,19 @@
           :delay="100"
         >
           <p class="infoText">
-            OfferMe är tjänsten som revolutionerar hur offerter skapas. Med vår
-            smarta och användarvänliga plattform kan kunder snabbt och enkelt få
-            en skräddarsydd offert direkt efter att de har fyllt i alla
-            nödvändiga uppgifter. Processen är enkel: Kunden anger detaljer om
-            sitt behov genom vårt intuitiva gränssnitt, som guidar dem genom
-            varje steg. När alla uppgifter är inskickade bearbetas informationen
-            av vår avancerade algoritm som automatiskt sammanställer en offert
-            som både är tydlig och professionell. Resultatet levereras
-            omedelbart – ingen väntetid, inget krångel.
+            OfferMe ger er hemsida en lead-generator utöver det vanliga. Vår
+            tjänst ger era kunder möjlighet att få prisuppgift utan er närvaro.
+            För er del blir det fler kundbesök med folk som redan har en uppskattning.
+            Ett vanligt kontaktformulär kräver manuell eller automatisk bearbetning av kunden.
+            OfferMe ger er kontaktuppgifter, prisuppgift och fler platsbesök.
+            Processen är enkel: Kunden anger detaljer om sitt behov genom vårt 
+            intuitiva gränssnitt, som guidar dem genom varje steg. När alla uppgifter 
+            är inskickade bearbetas informationen av vår algoritm som automatiskt 
+            sammanställer en offert som både är tydlig och professionell. 
+            Resultatet levereras omedelbart, ingen väntetid, inget krångel.
+
+            Offerten använder inte AI, utan är baserad på era egna priser och information
+            som ni själva har lagt in i systemet. Inga felaktigheter eller AI-genererade misstag!
           </p>
           <div class="infoCards">
             <div class="infoCard">
